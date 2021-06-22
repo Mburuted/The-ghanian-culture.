@@ -18,6 +18,10 @@ The web interface asks the user to input his/her birthday,select the gender then
 
 5.Javascript
 
+## CONTACT
+For any inquiries 
+contact:+254727154243,+254708038728;
+
 
 # LICENSE
 The MIT License (MIT)
