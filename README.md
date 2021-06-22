@@ -1,5 +1,5 @@
 # GHANIAN AKAN NAME WEBSITE
-<img src= ""></img>
+
 
 ## Authour
 Teddy mburu N.
@@ -9,9 +9,14 @@ The web interface asks the user to input his/her birthday,select the gender then
 
 ### Technologies used
 1.Html
+
 2.Css
+
 3.Git
+
 4.bootstrap
+
 5.Javascript
+
 
 # LICENSE
