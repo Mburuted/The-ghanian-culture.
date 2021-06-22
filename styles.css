@@ -1,0 +1,34 @@
+
+* {
+    margin: 0;
+    padding: 35px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgreen;
+    background-color: rgb(212, 213, 231);
+    padding: 10%;
+    margin: 0;
+}
+
+h1 {
+    padding: 10%;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size:x-large;
+    font-weight: bolder;
+    font-size:xx-large;
+    color: rgb(57, 132, 224);
+}
+img {
+    width: 50em;
+    padding: 10%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+p {
+    color: darksalmon;
+    font-size: xx-large;
+} 
