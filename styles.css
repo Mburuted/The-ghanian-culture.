@@ -22,11 +22,11 @@ h1 {
     color: rgb(57, 132, 224);
 }
 img {
-    width: 50em;
+    width: 30em;
     padding: 10%;
     margin: 0;
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 p {
     color: darksalmon;
